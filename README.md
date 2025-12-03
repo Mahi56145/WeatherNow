@@ -122,6 +122,8 @@ java -jar target\weather-cli-1.0-shaded.jar
 
 🖥️ Example Output
 
+<img width="1408" height="1067" alt="image" src="https://github.com/user-attachments/assets/3decd1ec-d185-447b-9a96-acffd451c647" />
+
 📚 Learning Outcomes
 
 Throughout this project, the following skills were demonstrated:
