@@ -54,7 +54,7 @@ This is a console-based Java application where:
 ---
 
 ## 📂 Project Structure
-
+```bash
 WeatherNow/
 │── pom.xml
 │── README.md
@@ -71,7 +71,7 @@ WeatherNow/
 │ └── WeatherApiResponse.java
 └── target/
 └── weather-cli-1.0.jar
-
+```
 ---
 
 ## 🔑 Requirements Before Running
@@ -94,9 +94,9 @@ Restart your terminal afterward.
 ## 🚀 How to Build
 
 Run this inside the project folder:
-
+```bash
 mvn clean package
-
+```
 A runnable JAR will be generated inside the **target/** folder.
 
 ---
@@ -108,9 +108,9 @@ Set terminal to UTF-8 (important for banner rendering):
 chcp 65001
 
 Run the application:
-
+```bash
 java -jar target/weather-cli-1.0.jar
-
+```
 #EXPECTED OUTPUT
 <img width="1472" height="1066" alt="image" src="https://github.com/user-attachments/assets/3081b1ca-3a60-4837-99ad-47e9b2216a56" />
 
