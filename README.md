@@ -138,7 +138,7 @@ These match the expected outcomes of the **CodeClause Java Development Internshi
 - Screenshots of application output  
 
 ---
-##📄 License  
+## 📄 License  
 This project is open-sourced under the MIT License. Free for academic and learning use.
 
 
