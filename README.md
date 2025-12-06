@@ -84,9 +84,9 @@ https://openweathermap.org/
 ### ✔ Set your API key as an environment variable
 
 #### Windows (PowerShell)
-
+```bash
 setx OPENWEATHER_API_KEY "YOUR_API_KEY"
-
+```
 Restart your terminal afterward.
 
 ---
