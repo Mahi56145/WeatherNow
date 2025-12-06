@@ -138,6 +138,13 @@ These match the expected outcomes of the **CodeClause Java Development Internshi
 - Screenshots of application output  
 
 ---
+##📄 License  
+This project is open-sourced under the MIT License. Free for academic and learning use.
+
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Maven](https://img.shields.io/badge/Maven-Build-blue)
+
 
 ## 👨‍💻 Developer
 **Mahipal Mali**  
